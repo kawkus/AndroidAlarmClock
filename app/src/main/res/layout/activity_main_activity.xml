@@ -21,7 +21,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/timePicker2"
-        android:text="Button" />
+        android:text="Button"
+        android:onClick="playSound" />
        // tools:layout_editor_absoluteX="12dp"
         //tools:layout_editor_absoluteY="401dp" />
 
